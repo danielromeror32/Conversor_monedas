@@ -1,0 +1,21 @@
+.root {
+    /*-fx-background-color: #D3CEDF;*/
+}
+
+.button, ChoiceBox, TextField{
+    -fx-background-color: transparent;
+    -fx-border-color: #D3CEDF;
+    -fx-border-width: 2px;
+    -fx-border-radius: 5px;
+    -fx-text-fill: #748da6;
+    /*-fx-cursor: hand;*/
+}
+
+/* Efecto de hover */
+.button:hover  {
+    -fx-background-color: #D3CEDF;
+    -fx-text-fill: white;
+}
+
+
+
